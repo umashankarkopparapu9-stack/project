@@ -2,3 +2,5 @@ Hello Git!
 This is my first Git file.
 Learning Git is interesting.
 Git is used for version control.
+
+this change is done in frndproject folder.
